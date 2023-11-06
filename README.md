@@ -2,9 +2,6 @@
 ## Metasploit
 Compromising windows using Metasploit
 
-## Metasploit
-Compromising windows using Metasploit
-
 ## AIM:
 To Compromise windows using Metasploit .
 
